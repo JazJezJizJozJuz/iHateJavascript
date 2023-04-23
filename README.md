@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @iHateJavascript.
+- 👋 Hi, I’m Juan.
 - 👀 I’m interested in Programming Languages.
-- 🌱 I’m currently learning PHP and Javascript.
+- 🌱 I’m currently learning mobile programming.
 - 💞️ I’m looking to collaborate on all of you guys!
 - 📫 How to reach me? nahh, no need, im newbie.
 
